@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KixzIcW5sKmOC0dSq//5bAwVmroUqS1+HVy6OXpTmiJYqbQJlmaHB64tKzT1MT6BpGEs1nLI3/X58LU8sdU7uQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eisordia\\proyectos\\estudiar\\blazor\\inicio\\inicio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eisordia\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\eisordia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\eisordia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\eisordia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
